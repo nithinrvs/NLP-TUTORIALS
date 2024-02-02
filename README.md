@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This repository contains information related to 21MID0038, R.V.S NITHIN. It includes a table with key dates and topics.
+This repository contains information related to tutorials i learn in NLP Course.
 
 ## Table
 
